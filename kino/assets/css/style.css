@@ -295,39 +295,3 @@
     height: 100%;
     max-height: 110px;
   }
-  
-  .third {
-    background: #F2EFE6;
-    padding: 120px 0;
-  }
-  @media (max-width: 650px) {
-    .third {
-      padding: 60px 10px;
-    }
-  }
-  .third__wrap {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-  }
-  .third__block {
-    width: 100%;
-    max-width: 760px;
-  }
-  .third__title {
-    color: #163A24;
-    text-align: center;
-    margin-bottom: 27px;
-  }
-  .third__text {
-    color: #163A24;
-    text-align: center;
-  }
-  .third__img {
-    width: 100%;
-    max-width: 1180px;
-  }
-  .third__img img {
-    width: 100%;
-    max-width: 1180px;
-  }
